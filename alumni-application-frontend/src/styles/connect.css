@@ -1,0 +1,82 @@
+.one h1 {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    margin-top: 3%;
+    font-family: DM Sans;
+    font-weight: bold;
+    font-size: 28px;
+    color: #000000;
+    -webkit-transition: all 0.4s ease 0s;
+    -o-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s;
+  }
+  
+  .one h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 34px;
+    font-family: DM Sans;
+    font-weight: bold;
+    padding-bottom: 5px;
+  }
+  .one h1:before {
+    width: 20%;
+    height: 7px;
+    display: block;
+    content: "";
+    position: absolute;
+    bottom: 3px;
+    left: 41%;
+    margin-left: -14px;
+    background-color: #0F5CBF;
+  }
+  .one h1:after {
+    width: 50%;
+    height: 2px;
+    display: block;
+    content: "";
+    position: relative;
+    margin-top: 25px;
+    left: 28%;
+    margin-left: -50px;
+    background-color: #0F5CBF;
+  }
+
+.content h2{
+    font-size: 18px;
+    font-family: DM Sans;
+    font-weight: normal;
+    color: #000000;
+}
+.content{
+    margin-bottom: 20%;
+}
+
+.content .global{
+  border: #0F5CBF;
+  background-color: #0F5CBF;
+  color: #ffffff;
+  border-style: dotted;
+  font-size: 24px;
+  font-family: DM Sans;
+  font-weight: bold;
+  border-radius: 8px;
+  padding-left: 10px;
+  margin-top: 5%;
+  margin-left: 20%;
+}
+
+.content .community{
+  border: #0F5CBF;
+  background-color: #0F5CBF;
+  color: #ffffff;
+  border-style: dotted;
+  font-size: 24px;
+  font-family: DM Sans;
+  font-weight: bold;
+  border-radius: 8px;
+  padding-left: 10px;
+  margin-top: 5%;
+  margin-left: 25%;
+}

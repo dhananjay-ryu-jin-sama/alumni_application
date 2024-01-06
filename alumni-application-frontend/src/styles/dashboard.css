@@ -1,0 +1,19 @@
+.title {
+    display: contents;
+    font-family: DM Sans;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+.container {
+    display: flexbox;
+    /* overflow-x: auto; */
+    justify-content: space-between;
+    align-items: center;
+    height: 40vh; /* 100% of the viewport height */
+    margin: 50px;
+  }
