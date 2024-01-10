@@ -18,7 +18,7 @@
 1. Clone the repository:
    (Open terminal or command prompt and type the following commands)
 
-git clone https://github.com/Kalirajm01/alumni-application.git
+git clone https://github.com/Kalirajm01/alumni_application.git
 
 cd alumni-application
 
