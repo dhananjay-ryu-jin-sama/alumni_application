@@ -7,7 +7,7 @@ render() {
   return (
     <div>
       <div className='one'>
-          <h1>Contact Us</h1>
+          <p>Contact Us</p>
       </div>
       <div className='content'>
           <h2>

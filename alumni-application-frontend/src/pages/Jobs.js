@@ -1,12 +1,12 @@
 import React from 'react'
 import Footer from '../components/Footer'
-import '../styles/about.css'
+import '../styles/job.css'
 
 function Jobs() {
   return (
     <div>
       <div className='one'>
-          <h1>Jobs/Internships</h1>
+          <p>Jobs/Internships</p>
       </div>
       <div className='content'>
           <h2> Here we will be posting the internship and jobs requirements from the alumni to the PSG iTech students </h2> 

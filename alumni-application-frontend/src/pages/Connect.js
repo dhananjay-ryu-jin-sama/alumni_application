@@ -10,7 +10,7 @@ function Connect() {
   return (
     <div>
       <div className='one'>
-          <h1>Connect</h1>
+          <p>Connect</p>
       </div>
       <div className='content'>
       <Link to="/signup">
